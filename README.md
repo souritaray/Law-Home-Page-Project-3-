@@ -19,7 +19,9 @@ In this project I have got in-depth knowledge about
 ## Time required to complete the project
 
 About 5 hours.
+## Live link
 
+[Law Home Page](https://law-home-page-souritaray.netlify.app/)
 
 
 ## Contact me on:
